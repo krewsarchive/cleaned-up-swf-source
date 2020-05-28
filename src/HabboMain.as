@@ -112,6 +112,9 @@
 				<asset-libraries>
 					<library url="hh_human_body.swf"/>
 					<library url="hh_human_item.swf"/>
+					<library url="hh_human_50_body.swf" />
+                    <library url="hh_human_50_fx.swf" />
+                    <library url="hh_human_50_item.swf" />
 				</asset-libraries>
 				<service-libraries/>
 				<component-libraries/>
