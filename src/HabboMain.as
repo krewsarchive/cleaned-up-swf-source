@@ -1,4 +1,4 @@
-﻿package 
+package 
 {
     import flash.display.Sprite;
     import com.sulake.core.runtime.ICore;
@@ -110,11 +110,38 @@
             addEventListener(Event.COMPLETE, this.onCompleteEvent);
             var _local_2:XML = <config>
 				<asset-libraries>
+					<library url="hh_human_face.swf"/>
 					<library url="hh_human_body.swf"/>
+					<library url="hh_human_hair.swf"/>
+					<library url="hh_human_acc_chest.swf"/>
+					<library url="hh_human_acc_eye.swf"/>
+					<library url="hh_human_acc_face.swf"/>
+					<library url="hh_human_acc_head.swf"/>
+					<library url="hh_human_acc_waist.swf"/>
+					<library url="hh_human_hats.swf"/>
 					<library url="hh_human_item.swf"/>
-					<library url="hh_human_50_body.swf" />
-                    <library url="hh_human_50_fx.swf" />
-                    <library url="hh_human_50_item.swf" />
+					<library url="hh_human_leg.swf"/>
+					<library url="hh_human_shirt.swf"/>
+					<library url="hh_human_shoe.swf"/>
+					<library url="hh_people_pool.swf"/>
+					<library url="hh_human_fx.swf"/>
+					<library url="hh_human_50_face.swf"/>
+					<library url="hh_human_50_body.swf"/>
+					<library url="hh_human_50_hair.swf"/>
+					<library url="hh_human_50_acc_chest.swf"/>
+					<library url="hh_human_50_acc_eye.swf"/>
+					<library url="hh_human_50_acc_face.swf"/>
+					<library url="hh_human_50_acc_head.swf"/>
+					<library url="hh_human_50_acc_waist.swf"/>
+					<library url="hh_human_50_hats.swf"/>
+					<library url="hh_human_50_item.swf"/>
+					<library url="hh_human_50_leg.swf"/>
+					<library url="hh_human_50_shirt.swf"/>
+					<library url="hh_human_50_shoe.swf"/>
+					<library url="hh_human_50_fx.swf"/>
+					<library url="hh_pets.swf"/>
+					<library url="hh_pets_50.swf"/>
+					<library url="hh_badges.swf"/>
 				</asset-libraries>
 				<service-libraries/>
 				<component-libraries/>
